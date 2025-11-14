@@ -10,7 +10,7 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
-/[Aa]ssets/Game/Ignore/*
+/[Aa]ssets/Ignore/*
 
 *.vom_v*
 *.vox3_v*
